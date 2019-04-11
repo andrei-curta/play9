@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Acme');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+  margin: 20;
+  padding: 20;
+  font-family: 'Montserrat';
+  /* color: white; */
+  /* background: #0b0c10; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1 {
+  font-family: 'Acme';
+  /* color: #66fcF1; */
+}
+
